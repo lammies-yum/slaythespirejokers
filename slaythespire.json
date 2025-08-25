@@ -1,0 +1,13 @@
+{
+    "id": "CardSpire",
+    "name": "Spire Jokers",
+    "author": ["lammies.yum"],
+    "description": "Adds jokers based on some cards from Slay The Spire.",
+    "prefix": "sts",
+    "main_file": "slaythespire.lua",
+    "badge_colour": "e7355a",
+    "dependencies": [
+        "Steamodded (>=1.0.0~ALPHA-1225a)"
+    ],
+    "version": "1.0.0"
+}
